@@ -12,7 +12,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
 ![Data](https://img.shields.io/badge/Data-Real%20%2B%20Transparently%20Simulated-orange)
 
-**[📓 Notebook](notebooks/04_statistical_analysis_egovernance.ipynb) · [📊 Live Dashboard](dashboard/statistical_dashboard.html) · [📄 Full Report](docs/Week4_Statistical_Analysis.docx)**
+**[📓 Notebook](notebooks/04_statistical_analysis_egovernance.ipynb) · [📊 Live Dashboard](index.html) · [📄 Full Report](docs/Week4_Statistical_Analysis.docx)**
 
 </div>
 
@@ -128,7 +128,7 @@ jupyter notebook notebooks/04_statistical_analysis_egovernance.ipynb
 
 ## 🖥️ Interactive Dashboard
 
-[`dashboard/statistical_dashboard.html`](dashboard/statistical_dashboard.html) — fully
+[`index.html`](index.html) — fully
 self-contained (Plotly embedded inline, works offline). 6 KPI cards, 2 regression scatter plots
 with trend lines, a correlation heatmap, and the high/low mobile-capture group comparison — with
 an on-page note reminding viewers which numbers are real and which are simulated.
