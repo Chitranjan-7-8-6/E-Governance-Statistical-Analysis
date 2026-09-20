@@ -1,0 +1,6 @@
+Technique,Test,Statistic,p_value
+Pearson correlation,RejectionRate vs MobileCaptureRate,r=-0.0202,0.9125159499271052
+Pearson correlation,RejectionRate vs SatisfactionIndex,r=-0.4446,0.01078915455069326
+Pearson correlation,MobileCaptureRate vs SatisfactionIndex,r=0.7733,2.1216725690191203e-07
+OLS Regression,SatisfactionIndex ~ RejectionRate + MobileCaptureRate,R2=0.7820,2.5490031256937364e-10
+Welch's t-test,RejectionRate: high-mobile vs low-mobile states,t=0.5619,0.5804731085502869
